@@ -1,4 +1,4 @@
-# Garbanzo Mobile App Login UI
+# X-harles Mobile App Login UI
 ## Login page
 ![Login page](/assets/screenshots/login.png "Login page.")
 ## Signup page
